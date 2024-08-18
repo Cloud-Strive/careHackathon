@@ -53,9 +53,9 @@ def load_data(file_path):
 
 def initialize_data():
     global investor_df, entrepreneur_df, project_df
-    investor_df = load_data('data/Investor_profiles.csv')
-    entrepreneur_df = load_data('data/Entrepreneur_profiles.csv')
-    project_df = load_data('data/Research_project_data.csv')
+    investor_df = load_data('Investor_profiles.csv')
+    entrepreneur_df = load_data('Entrepreneur_profiles.csv')
+    project_df = load_data('Research_project_data (1).csv')
 
 def extract_combined_features(df):
     df = df.fillna('')
