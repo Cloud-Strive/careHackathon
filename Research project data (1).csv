@@ -1,0 +1,1456 @@
+﻿University;Name;Brief overview;Industry;Overview of innovation;Technology benefits;Technology applications;Technology readiness level (TRL)
+UCT;Immerse Cell - Virtual Reality Learning Experiences for teaching Cell Biology;Virtual reality experience (VLE) to teach students about key cellular structures with an interactive, narrated, guided experience;Education, IT;"ImmerseCell is a virtual reality experience (VLE) to teach undergraduate and postgraduate students about key cellular structures with an interactive, narrated, guided experience (Figure 1, ﻿Figure 2). The team utilised real-world microscopy data of various key cellular structures in the mammalian cell and reconstructed them into 3D models that can be used as learning objects in a virtual environment.
+
+ImmserseCell was developed using 3D modelling software and Unreal Engine to create the entire VR learning experience. The VLE can be deployed in a variety of high-end and low-end headsets. Software is cross-platform and independent of any specific virtual reality platform.
+
+The experiences use both artist impressions and 3D reconstructions of these organelles based on real data acquired by fluorescence microscopy. Students can pick these structures and interact with them using motion controllers.";"Immersive learning experiences.
+Enhanced spatial understanding.
+True 3D representation of 3D data.
+Simulations of real-world experimental data.";;6
+UCT;Livestock Management Database Systems;A real-time, easy-to-use mobile-based livestock management solution.;Agriculture;Livestock Management Database System is a user-driven, holistic and easy-to-use mobile-based solution accessible on smartphones and computers (SaaS). It facilitates direct and two-way real-time communication among farmers, and between farmers and extension services, researchers, and agricultural service providers. Figure 1 presents a general schematic representation of the LMDS showing the customer segments and how they will be interlinked for a productive farming ecosystem. Compared to existing solutions, the app also builds a growing database of smallholder farmers which helps at policy level and for preserving indigenous knowledge.;"User-driven, holistic and easy-to-use
+Accessible mobile-based solution
+Direct and two-way real-time communication among users and their stakeholders
+Time saving ";"The Livestock Management Database System app can be used by farmers to effectively communicate, transact and give feedback to fellow farmers, experts and value chain service providers and accurately capture all farming activities. The public extension can use the app to timely deliver well-coordinated and monitored extension services directly to farmers in real-time using fewer resources than before.
+
+The targeted customer segments: farmers (B2C), government extension (B2G), value chain service providers (B2B) are required to pay annual subscription fees following a tiered subscription fee structure.";4
+UCT;SUrgiTrack;A web-based platform for health care workers to streamline the entire surgical workflow, from diagnosis to surgery;Healthcare, IT;"SUrgiTrack is an innovative web-based platform designed to revolutionize the management of surgical workflows. Developed to address the inefficiencies and communication gaps in traditional surgical management systems, SUrgiTrack offers a comprehensive solution that streamlines the patient journey from diagnosis to surgery.
+
+ Key Features 
+
+Unified booking system: simplifies and automates the process of scheduling surgeries.
+Efficient admission and theatre management: ensure smooth management of patient admissions and theatre schedules.
+Centralized communication: facilitates seamless two-way communication between healthcare providers and patients, reducing errors and enhancing patient satisfaction.
+Intelligent prioritization tool: Assists physicians in prioritizing patients based on medical urgency, ensuring timely and fair access to surgical care.
+Standardized documentation: Provides a structured log book of surgical operations with standardized templates to enhance documentation accuracy and efficiency.
+Resource consumption module: helps in forecasting and managing the resources required for specific surgical procedures, preventing shortages and wastage.
+Advanced reporting system: Delivers actionable business intelligence to healthcare administrators, aiding in strategic planning and decision-making.";"Enhanced efficiency: reduces the administrative burden on healthcare providers, allowing them to focus more on patient care.
+Improved patient outcomes: ensures timely surgeries and better resource allocation, leading to improved patient outcomes.
+Cost savings: minimizes unnecessary emergency visits, tests, and complications, ultimately reducing the overall cost of managing surgical cases.
+Better resource management: aligns resource allocation with patient needs, optimizing the utilization of surgical resources.";"SUrgiTrack is designed to benefit a wide range of healthcare institutions, including:
+
+Community hospitals and departments of surgery
+Academic hospitals and departments of surgery
+High-volume private surgical practices
+Ministries of Health
+Medical aid and insurance companies ";4
+UCT;Protein Extraction Process from Black Soldier Fly Larvae;An improved process for obtaining high-protein, low-fat extracts from Black Soldier Fly Larvae for agricultural and food market;Food technology;"The technology relates to a process for obtaining protein from Black Soldier Fly larvae (insects/worms). The process extracts protein from Black Soldier Fly Larvae (BSFL), separates the protein from undesired lipids and chitin and upgrades the protein to a consumer acceptable grade ultimately producing a dry powder final product. The technology fractionates the raw material to separately recover the lipids, protein and chitin fractions in a two-step extraction process. Ultrafiltration is then used to reduce the ash content in the protein. The extract is then dried to obtain the BSFL extract protein powder. The protein content, lipid content, ash content, chitin content and moisture content of the final product are verified within the following proximate composition:
+
+The upgraded protein product produced is a high-protein, low ash powder product aimed to be suitable for use in human food products (e.g. soup powders, nutritional supplements etc.)
+
+The process uses optimized processing conditions to obtain the claimed features. ";"Process selectively separates protein more accurately.
+High-protein, low-fat product produced from process.
+Properties such as colour and odour of protein product improved.
+Undesired products from the process can be processed further to yield additional products.";"Protein meal suitable for human food market 
+Protein suitable for animal and pet food
+Biofertilizers
+Agricultural industries";3
+UCT;In Situ Photovoltaic Module Performance Monitoring System;A novel system to monitor the performance of PV modules in PV power plants;Energy;"The In situ photovoltaic module performance monitoring system, measures the maximum power point of a module, comparing it to the current operating point to determine the current performance of that module. 
+
+The technology is installed in situ in PV power plants to monitor the performance of individual modules. It comprises a measuring device fitted into each module to measure voltage. The data is then transmitted wirelessly to a data-gathering device. The technology also comprises a perturbation device to perturb the operating point of a string of modules and provide additional information regarding the current performance of the individual modules with respect to their individual maximum power operating points. ";This technology provides accurate real-time and long-term data relating to the performance of individual modules relative to their maximum ability. This will enable a more precise analysis of the performance of a PV power plant and provide valuable data to identify aging modules. ;Large utility-scale and commercial-scale (rooftop) photovoltaic power plants.;3
+UCT;Electric Vehicle Fleet Simulator;EV-fleet-sim is a software simulation tool used to evaluate the feasibility of electric vehicle (EV) fleets;Energy;In its current state, the software produces the key technical feasibility metrics and graphs, which help the user answer the questions of requirements and viability for a fleet. Although the software is free and open-source, it is a terminal/command-line application which requires technical IT expertise to use. A graphical web-based front-end of ev-fleet-sim is in development. The graphical version will be available on a paid subscription.;"Localized EV fleet evaluation tools
+Accurate technical feasibility metric (i.e., energy demand) estimations";"Small and large delivery service business
+Courier businesses
+Cargo businesses
+Public transport industry";6
+SU;SoilTrac;The future of soil health monitoring;Agriculture;"SoilTrac enables the monitoring,in real time, of soil respiration rates (microbial, microfauna and plant metabolic activity) and other physical parameters(temperature, soil moisture levels etc.) through the implementation of various sensors and cloud capabilities(Edge-to-Cloud Approach).
+
+The patent pending innovation lies in the in-field measurement of respired CO₂. In addition to monitoring soil respiration, the addition of the measurement of physicochemical parameters provide a modular platform that enables fit-for-purpose Precision Agriculture sensing.
+
+The addition of multiple SoilTrac probes to the online monitoring dashboard allows for comparison of various parameters within and between fields, to establish improved understanding of the way that different soils respond to changes.";"The ability of SoilTrac to Monitor, Amend and Maintain facilitates the migration from a reactive to proactive approach to soil health.
+
+Monitor: In situ, real-time monitoring of soil health is of utmost importance in precision agriculture.The collection and analysis of soil health data allows for trend analysis and proactive response to changes in soil health.
+Amend: Real-time monitoring aids in identifying potential deviations from optimal operational parameters and amendments to soil can be made before major issues occur. Allowing cost-savings while being environmentally conscious.
+Maintain: The ability to monitor and adjust soil health parameters allows for the maintenance of optimal operational parameters. The constant maintenance of soil health allows for better soil outcomes and productivity.";Agricultural industry;8
+SU;Removing and Recovering Heavy Metals from Solutions Using Biosurfactants;An innovative approach for the removal and recovery of metal ions from solutions using biosurfactants;Mining, environment, construction;This technology uses the particular properties of a type of biosurfactant to selectively recover metals from solution. Using comparatively low concentrations of biosurfactant, the metals can be recovered (and potentially valorised), and the surfactant can even be recycled back for further metal recovery. This technology managed to reduce the metal content by up to 85%, even at very low metal concentrations. This technology works particularly well with divalent cations, and has potential application in the recovery of metals from leachates (such as copper);"High metal recover efficiency ‑ The technology manages to recover metals at even very low concentrations (in the mM range), whereas current technologies are generally extremely expensive at those concentration ranges. 
+Environmentally Friendly ‑ The materials we use are used in low concentrations, are potentially recyclable, and more importantly are biodegradable, so thy can be used in the final polishing steps of wastewater treatment without detrimenting the environment.
+Simple and Versatile Process ‑ The method is relatively straightforward and can be adapted to various removal techniques, including solvent extraction, settling, flotation, and filtration. 
+Adjustable Operating Conditions ‑ The process allows for adjustments in air flow rates, solution pH, and surfactin concentration to optimize metal recovery and minimize water recovery in the foam overflow. ";"Potential applications include, but are not limited to:
+
+Treatment of acid rock drainage
+Treatment of mine waters, for intra-mine water recycling
+Recovery of specific metals in process streams
+Recovery of metals from leachates
+Treatment of metal-rich industrial wastewaters";5
+SU;Coating of Material with Biosurfactant Compounds;The application of biosurfactant- to the surface of HDPE, PVC and stainless-steel grade 304 materials to reduce bacterial adhesion;Water, food, medical, other;"Biosurfactants produced by Pseudomonas aeruginosa SB24 (rhamnolipid congeners), Bacillus amyloliquefaciens ST34 (surfactin and bacillomycin L analogues and homologues) and pigmented (P1) and non-pigmented (NP1) Serratia marcescens strains (serratamolide and glucosamine derivative homologues) were immobilised onto the surface of HDPE, PVC and stainless steel grade 304. To introduce functional groups (hydroxyl groups) to the surface of the materials, the materials were first treated with a Piranha solution and silanized with a 3-triethoxysilylpropan-1-amine (APTES) linker. The lipopeptides and glycolipid compounds were then chemically modified and covalently coupled to the APTES linker on the respective materials. 
+
+Surface immobilisation of the biosurfactants onto the material surfaces was confirmed using attenuated total reflectance Fourier transform infrared spectroscopy, scanning electron microscopy coupled to backscattered electron imaging-energy dispersive x-ray spectroscopy and water contact angle measurements. The coating and immobilization methods provide covalent linkages between the antimicrobial biosurfactant compounds and the APTES-functionalised material. The covalent nature of the bonding may be expected to reduce leaching, enhance long-term stability and increase the duration of antimicrobial efficacy. The biosurfactant coated materials have the potential to be exploited as biomaterials to prevent or delay the onset of biofilm formation.";Biosurfactants are naturally produced compounds that exhibit several advantages over chemical surfactants, including lower toxicity, effectiveness at extreme temperatures or pH values, biocompatibility, and digestibility. Moreover, biosurfactant‑coated materials may reduce microbial contamination and biofouling of materials commonly utilised in the food, water or medical industries.;"The water sector for the water distribution systems (pipes, taps, valves), water-storage tanks and water conveyance.
+The food industry for food vending equipment and food processing plants and equipment surfaces in contact with food.
+The medical industries for surface materials and implant devices e.g. catheters, and for use in hospitals and clinical settings.
+Biomedical and biotechnology industries, general industrial cooling systems, shipping and marine industries. ";8
+SU;Paper Sludge to Value Product Through Using a New Contaminant Sensitive Bioprocesses Technology;This reduces the number of contaminating organisms to acceptable levels and also aseptic transfer of the feedstock for the bioethanol market;;In an application of the process, the sterilisation system feeds an aliquot of paper sludge into the chamber of a decontamination vessel. Heat is provided to feedstock through direct contact between the reactor wall and direct steam injection. Sterilisation commences once the content of the decontamination unit reaches the desired temperature where it is maintained for about an hour. The unit is depressurised after sterilisation maintaining a positive pressure either by keeping an elevated temperature or by pressurising the unit with sterile air. The content of the decontamination unit is well mixed, during heating-up, sterilisation and depressurisation to ensure break-up of particles into a fine mix. The purpose of the mixing at elevate temperature is to evict trapped and sheltered organisms from the matrix of the feedstock. The mixture is loaded into a decontamination chamber. It is essential that the decontamination part of the process remain under elevated temperature to maintain sterility. A steam jacket surrounds the chambers and valves. After the sterilisation process the sterile product is pumped into the biofuel reactor vessel.;"Advantages
+
+The high bioburden of paper sludge makes it very difficult to ferment. Unwanted paper sludge enters the fermenter via the paper sludge and becomes competition for the fermenting organism.
+
+The process/system suggested utilized agitation, saturated steam and a sterile discharge to reduce the bioburden of paper sludge prior to entering the fermenter. Less or no organisms are therefore available to compete with the fermenting organism.
+
+Reduce Bioburden
+
+Apply internal mixing to disrupt the three-dimensional structure of the industrial by-product. Microorganisms become more vulnerable when exposed and thus more likely to be killed.
+
+Preventing Recontamination
+
+Aseptically transport the treated product from one unit operation to another without being exposed to the environment. Steam pressure and internal screw to assist with transportation.";" Bioethanol market ‑
+
+Paper sludge
+Sugarcane bagasse
+Corn Stover
+Switchgrass
+Wheat straw
+Flax shives
+Hemp hurds";6
+SU;Fresh Produce Packaging Innovation;Innovative packaging design for sustainable efficiencies in the global food system;Food, Environment;"Experimental design→Mathematical simulation using Computational Fluid Dynamics
+Virtual Prototyping & Testing →Simulating the flow through and buckling modes of alternative designs
+Physical Prototyping & Testing → Detailed testing of mechanical strength and cooling performance, in both normal and conditioned environments
+Stage of Development
+TRL 6 ‑ Lab validation and field validation has been completed for several fresh fruit produce. ";"This innovation addresses challenges in the Reefer (shipping) logistics of fresh agricultural and horticultural produce packed inside ventilated cartons. Significant increases in reefer freight rates have placed substantial pressure on the fruit export industry to find new and innovative improvements. This innovation improves:
+
+lowering carbon footprint ‑ the space / volume usage of fruit in reefer containers, more fruit can fit into shipping containers, therfby reducing shipping cost 
+cost efficiency and sustainability of reducing postharvest losses 
+cost saving related to cooling requirement for shipping
+improvement in product quality and sustainability requirements";This innovation in the fruit packaging design can be easily applied to other agricultural and horticultural produce and supply chain.;6
+SU;Sporatec;The preferred partner for microbial services for the agricultural industry;Agriculture, climate;"The agricultural industry is currently experiencing severe droughts. This is not ideal for the soil testing market, but this can help convince farmers to change farming practices and move towards conservation focused farming. The agricultural industry is beginning to focus more on the biological aspect of soil management. As the awareness of biological soil management increases, the soil health industry will grow accordingly.
+
+Conventional farming practices are becoming less profitable, and the industry is moving toward conservation agriculture. The market will expand as younger farmers introduce new farming practices that adopt more forward-thinking. 
+
+The biological management in agriculture is obtaining more attention. Farmers are becoming increasingly interested in the biology of the soil, with many farmers moving towards conservation agriculture using cover crops and lower chemical inputs.
+
+Sporatec is a spin‑off company that officially started in 2018 and functions as part of the Jacobs laboratory in the Department of Microbiology at Stellenbosch University. Sporatec was established based on research at Stellenbosch, as the demand increased in enquiries about soil health, specifically assessing the soil microbes.";"Farmers will be able to make decisions on farming practices in a reasonable time. Reports are given within 3-4 weeks, compared to the 8-10 weeks you would normally wait.
+Sporatec can provide farmers with more biological data at a fraction of the price that overseas companies are charging. 
+Farmers moving towards a more sustainable farming practice will be better equipped with results specifically tailored to the South African climate ";"Sporatec is currently the preferred soil health service provider of +200 farmers and agricultural advisors all over South Africa. Most of our clients are grain, tree nut and table grape farmers or researchers. There is the potential to expand to other small- and large-scale farmers and increase our client base to +300 farmers with the addition of new technology.
+
+Sporatec can provide services to a range of markets and companies in the agricultural sector, particularly those involved in soil health and crop production. This includes:
+
+Commercial Farmers: For soil analysis to optimize crop yields.
+Agricultural Researchers: For studying microbial ecology and soil health.
+Agribusinesses: Companies involved in the production and distribution of agricultural products.
+Environmental Agencies: For monitoring soil health and managing soil sustainability.";9
+SU;Reversible Male Contraceptive;A novel, on-demand reversible hydrogel providing an effective and easily reversible male contraceptive solution;Healthcare;"Stellenbosch's solution is a 2-component hydrogel designed to block the vas deferens, thus preventing the passage of sperm cells. Unlike vasectomy, this hydrogel is easily reversible, restoring fertility. The hydrogel is formulated from two aqueous polymer solutions with complementary reactive groups that form a gel in 10-30 seconds upon mixing. This rapid gelation minimizes damage to the vas deferens. The hydrogel is stable and inert under physiological conditions, blocking sperm passage while allowing fluid diffusion. Reversibility is achieved by injecting a biocompatible compound that “uncrosslinks” and dissolves the hydrogel. This method is highly effective due to the low viscosity of the solution post-uncrosslinking, offering superior reversibility compared to other products like RISUG/Vasalgel.
+
+Under practical conditions, the reversibility of the newly developed system is far superior to that of the currently available hydrogels.
+";"Reliable and long-lasting: more effective than condoms with better longevity
+Easily reversible 
+Non-hormonal 
+Minimal damage: low viscosity during injection reduces deformation and damage to the vas deferens";Primarily designed as a reversible male contraceptive, this hydrogel could also be investigated for female contraceptive use or other applications requiring on-demand hydrogel reversibility.;4
+Wits;A Sample Extraction Device;A point of care user friendly device to salvage DNA;Healthcare;The CREDO (CartRidge Extractor DiagnOsis) Device is a device designed to safely and sterilely remove fluid remaining after assay completion from used cartridges (this used cartridge would otherwise be discarded). This fluid can be useful for downstream applications (these downstream tests could be any molecular or diagnostic method) without having to go back to patients for additional specimens and, potentially, without the needed for further fluid clean-up (as the cartridge has already partly extracted material from cells).;"Reduce Sample collection: Reduce the need for additional specimen collection for downstream testing for patients
+
+Aseptic Extraction: The extraction device assembly enables the aseptic extraction of samples 
+
+Simple to use: It has a simple mechanical design 
+
+Cost effective: This device is not expensive to manufacture";"Healthcare Diagnostics:
+
+Molecular Diagnostic Laboratories: The device can be used in laboratories for the extraction and analysis of nucleic acid samples from cartridges, such as GeneXpert nucleic acid amplification cartridges, which are commonly used in diagnosing infectious diseases like tuberculosis, COVID-19, and other viral infections.
+Point-of-Care Testing: The portability and ease of use make it suitable for point-of-care settings, enabling rapid and accurate diagnostic testing outside traditional laboratory environments, such as in remote or resource-limited settings.
+Research and Development:
+
+Genomic Research: Researchers can use the device to extract DNA/RNA from samples for genomic studies, including sequencing, genotyping, and other molecular biology applications.
+Clinical Trials: The device can facilitate the collection and analysis of nucleic acid samples from clinical trial participants, aiding in the development of new diagnostic tests and treatments.
+Pharmaceutical Industry:
+
+Drug Development: Pharmaceutical companies can use the device to monitor the presence of specific nucleic acids in biological samples during the drug development process, including pharmacogenomic studies.";7
+Wits;PCL Knee Brace;Knee brace with a dynamic force mechanism forthe treatment and rehabilitation of posterior cruciate ligament (PCL) injuries;Healthcare;"Researchers at UCT in partnership with a knee specialist in private practice, have developed a novel PCL brace for the treatment of PCL injuries. The brace
+was designed to provide a dynamic tension function of the posterior cruciate ligament (PCL) over the knee’s range of motion.
+The designed brace uses a physical method of tensioning a cable while still using the calf cup technology. The tensioning method is that of a non-circular
+pulley, also called a lobe, which changes the cable tension as a function of the knee’s flexion. This lobe on either side of the knee pull onto the cable causing a
+reduction in effective length and pushing the calf cup forwards. The UCT PCL knee brace utilises a lobe design so as to increase the load that the brace applies
+to the posterior side of the calf over the knee joints flexion range. The lobe was created with a surface that follows an involute profile, designed to force the
+tibia forwards, alleviating pressure on the PCL. This method means that the PCL receives the forces required at its flexion levels current stress. There is
+therefore no over-stressing of the joint at lower flexion ranges. This provides a stable long-lasting solution to the stress placed on the PCL.
+The involute profile of the lobe can be developed to patient specific rehabilitation plans. The number of the lobes also means that multiple shapes can be
+applied to get higher or lower medial and/or lateral forces applied to the posterior of the tibia, possibly allowing for rehabilitation of other ligament injuries.";"The novel UCT brace provides a technology which:
+Provides a cost effective mechanism to introduce a dynamic force to assist and improve with PCL recovery
+Could shorten the recovery times of PCL injuries and as a result reduce the treatment expenses
+Allows for easy customisation of the patient specific forces required for optimal recovery through the novel tensioning/force mechanism ‑the
+lobes/non‑circular pulleys. These lobes can easily be swapped in the braces throughout the recovery period if needed.
+Allow for potential integration into other braces.";"Applications can include:
+Stand alone PCL knee brace with dynamic tensioning mechanism
+Integrate the tensioning mechanism into current knee braces";4
+Wits;Device to Treat Sleep Apnoea;An implantable device that advances the sufferer's tongue to address obstructive sleep apnoea;Healthcare;"The University of Cape Town’s solution to treat OSA is a device that is implanted below the tongue with one end fixed to the chin bone and the other to the
+base of the tongue.
+The device acts as a scaffold for the growth of a biological tendon from the patient’s own stem cells. The bio‑sorbable material is eventually replaced by a
+tendon, that is strong enough to hold the base of the patient’s tongue in the advanced position.
+The resulting gain in air flow in upper airway, provided by the new tendon would replace the need for positive pressure to be delivered to the patient’s airway
+during sleep or other invasive surgical procedures such as splinting the tongue or reducing the length of the tongue with radiation and laser surgery.
+The inventors have demonstrated:
+proof of principle that advancing the patient’s tongue overcome sleep apnoea
+functionality of the device in a prototype
+growth of the biological ligament and bio‑sorption of the device over time in animal trials. The trials were conducted in sheep and the biological tendons
+harvested and had a strength of 70N. The picture above depicts a cross‑section of the biological tendon demonstrating the replacement of the delivery
+vehicle and the vascularization of the grown biological tendon
+the surgical implant procedure was proven to be simple and effective in the sheep trials
+More data and pictures of the tendon and results can be shared with a follow‑up.";"The benefits of the UCT sleep apnoea device are the following:
+the base of the apnoea sufferer’s tongue is advanced sufficiently to open the airways and overcome the obstruction experienced during OSA
+removes the patient’s dependence on air passage management technologies to assist the patient to breathe
+the patient’s quality of life improves as the advanced airway facilitates the oxygenation of the bloodstream; preventing the co‑morbidities associated
+with OSA
+the biological tendon is grown from the patient’s own tissue and becomes a permanent feature within the patient’s anatomy. The tensile strength of the
+sheep tendon was measured at 70N
+the materials are readily available and can be packaged as a kit that could be supplied to surgeons";"The technology is intended as:
+Treatment for the permanent alleviation of severe OSA
+As a less invasive single surgical intervention for the treatment of OSA
+OSA is treated by a variety of health professionals including Ear Nose and Throat specialists, Maxillo‑facial surgeons and Pulmonologists.
+The solution is envisioned as a kit with the active components pre-packaged and ready for implant into a patient.";4
+Wits;Wooden Pole Condition Sensor;Cost effective condition monitoring technology for wooden poles;Construction;"Researchers at UCT developed a pole condition sensing technology which measures the state of health of wooden utility poles. The technology was
+developed to be cost effective, easy to install and to actively provide information concerning the state of the pole via a communication interface. The UCT
+technology aims to perform the following:
+1. Measure pole attitude and altitude: Detect if the pole has fallen over or fallen vertically
+2. Measure vibration signature: Detect changes in the vibration signature between nearby poles indicating changes in pole condition or local events such
+as motor vehicle accidents, broken/cut conductors. Detect wind speed (can be used with temperature to change the load limit dynamically) and detect
+changes in mechanical pole resonance at given wind speed if the pole fails at the ground contact
+3. Measure magnetic field: Detect anomalous changes in magnetic field indicating a potential fallen conductor or current tee-off. Detect failures in
+geometry or current by comparing relative changes in magnetic field between poles.
+4. Measure temperature: Sense environment temperature and fires under the line Communicate field data to server or substation via low power IoT
+wireless network
+5. Report per-pole condition using low power BlueTooth 5 (or similar) to a central server for safety tripping decisions, operator action, or planned
+maintenance decisions.
+The technology is currently at a TRL6 with prototypes being tested in representative environments i.e. tested in an electrical distribution network.";"The UCT technology provides a cost effective and easy to install IoT device with innovative processing algorithms to extract the information form low cost
+sensors. The system was designed to integrate into existing pole management infrastructure, or act as a stand alone system. The technology aim to provide
+the following benefits:
+reduce general maintenance costs for the network by replacing labour intensive practises with automated functions
+reduce the risk of pole failures and as a result, critical network failures, by acting as an early warning mechanism
+reduce the risk for environmental impact due from line and pole failures
+improve response time when responding to pole failure or issues by better localising the point of the failure";"The technology is suitable to the following applications:
+Active and more automated condition monitoring system or pole integrity monitoring system for wooden pole distribution systems
+UCT technology can easily be added to an existing pole condition or maintenance system to reduce labour and/or add additional insights of the
+infrastructure
+UCT technology can further assist with fault finding through better localisation of potential faults, or theft incidents.";6
+Wits;"Software-enabled Image Correction Shimming Tool for MRI
+Scanners";"Software for correcting main magnetic field drift in MRI scanners through improved shimming techniques, improving image
+quality.";Healthcare;"This innovation is in the form of software that runs on an MRI machine which estimates and corrects for main magnetic field drift by using a double volumetric
+sequencer navigator to measure and adjust shim over selected regions in a “slab-by-slab” fashion.
+A 3D navigator pulse is interleaved in the scanning sequence after the acquisition of each volume. A second navigator is introduced, with a different echo time
+to the first, before the next volume is acquired. The two corresponding navigator images are obtained and a magnetic field map is determined via complex
+division of the images. This magnetic field map is then used to determine the parameters required to adjust the system central frequency of the MRI scanner
+to compensate for drift.
+The method ultimately improves the quality of images produced by imaging scanners such as MRI’s.
+The technology has been jointly developed by the University of Cape Town and the Massachusetts General Hospital (MGH) in the United States. The patents
+are co‑owned.";"No hardware requirement‑innovation is simply uploaded as software onto existing MRI shim correction devices / integrated into the pulse sequence
+Useful particularly to smaller, cheaper MRI scanners where cheaper magnetic coils are used, or applications where “software tricks” allow for cost
+advantage over competitors
+Measure, report and correct for all changes in magnetic field throughout an MRI scan
+Improved image quality
+Ability of the double volumetric navigator sequence to measure and adjust shim over selected regions in a ‘slab-by-slab’ or ‘slice-by-slice’ fashion
+Integratable into any MRI pulse sequence, including functional MRI (fMRI) and diffusion tensor imaging (DTI)
+Higher order shims can be implemented if the hardware of the particular MRI scanner permits this";"Hospitals, medical practices, MRI instrument manufacturers and veterinary practices that require accurate images in order to investigate the anatomy or
+physiology of a human or animal body.
+Applicable particularly to smaller, cheaper MRI scanners where cheaper magnetic coils are used, or applications where “software tricks” allow for cost
+advantage over competitors";5
+UP;In- and Outdoor IMU System;AI-enabled, time-synchronized IMU array to measure inertia and position.;Sports, other;"Our invention consists of an array of IMU sensors that are synchronized with one another. The IMU sensors measure inertia and position of the subject within
+a space. The IMUs’ output is their collective measurement of inertia and forces, generating big data. The data serves as input into a personalized kinematic
+model for the test subject. The kinematic model can estimate the Ground Reaction Forces (GRFs) and a torque profile of the test subject around a specific
+sensor or in relation to one another.
+There is no limit to the number of sensors that can be used on a test subject or on multiple test subjects of locations.
+Our sensors are 5 centimeters in diameter, 10 millimeters thick and independently powered. The sensors synchronize with one another wirelessly, and the
+user can use as many as needed to on the test subject‑ animate or inanimate.";"The system can measure the subject outdoors.
+The accuracy of our sensor is below one centimetre.
+Our sensor’s sampling rate is 2kHz.
+The sensors are time-synchronized with an independent clock.
+A single, or cluster of sensors, communicates with a base station unit wirelessly. The connection range between the sensors and bases station can be within 10
+kilometres.
+The system is also capable of dynamic, continuous calibration which removes position drifting on the sensor. This feature removes the need for the subject to
+remain still to re-calibrate.
+There are no visual markers and can be used independently of a visualization system as an option.";"One application of the technology could be in sports or biomechanics where the system can be used to estimate joint kinematics and give physicians insights
+into performance, impact of an injury, tracking recovery and even the prevention of injury; while the test subject is training outdoors. The sensors can be
+placed on athletes at various joints and muscles to give insight into the force and motion experienced in their bodies together with other force and motion
+information.
+Another application of the technology is to track the movement of swarming drones, autonomous vehicles or any body moving in synchronization with
+another.";6
+UP;Performance Optimizer for PV Panel Installations;Cost-effective means forrapidly monitoring performance of PV solar panels during operation.;Energy;The technology is a low-cost platform for capturing the impedance spectrum of a PV module or string within a very short period of time (compared to conventional impedance analyzers). The impedance spectrum is correlated with PV performance and a variety of online fault conditions can be characterized. The technology consists of measuring the electrical impedance response of an optimized and unique superimposed multisine broadband signal injected into the PV panel or string. The signal is capable of spanning a very large frequency range of between 100 Hz – 500 kHz with a very low crest factor, for characterizing various PV cells/modules. The superimposition of waveforms allows rich information of the cell condition to become more rapidly available when compared to conventional EIS. This is due to the fact that signals of different frequencies are injected simultaneously, making the impedance spectrum available much sooner. With the reduction in time required to obtain this information, the technology has the potential to serve as a useful online state-of-health tool for PV panels/strings. To date, broadband signals have not been applied to online PV modules/strings to determine their impedance and, as a result, the state of health of the PV panel/string. Impedance information provides more varied information based on the condition of the PV panel/string as opposed to voltage and current information.;The technology has the following benefits: Fast response and quick characterization for rapid assessment of the state of health of PV panels. Response time is typically in the region of 1 second, making it suitable for online implementation as it limits the risk of transients having an impact on the results. Characterization of impedance response allows richer diagnostic information of a PV panel vs. conventional voltage and current measurements. The impedance values are also captured over a much wider frequency spectrum to allow for a wider breadth of fault conditions to be monitored and detected. The detailed parameter information allows for better management of PV panels by having more detailed data on the changing state of the PV panels whilst in operation. Better information allows system owners to optimize performance and reduce unnecessary maintenance expenditure. Diagnostic parameters can be trended over time to establish a baseline and monitor the baseline behaviour and compare them to each other. This also allows for prediction models for specific site level installations.;Monitor the state of health, or obtain diagnostic information of PV panels in an online system environment. Primary function: To provide rapid online state of health monitoring and early warning system for PV systems to optimise system electrical energy output and reduce system losses and maintenance. A secondary function could be for the technology to surface rich system data to improve system prediction and management models. The technology can be integrated into power converter systems such as inverters or smart power modules or intelligent control systems to enable these systems to have more diagnostic functionality and extract better information from assets (PV panels). This technology will have low hardware cost and will complement the current value chain.;7
+UP;Fuel Cell Gas Diffusion Layer;The innovative Gas Diffusion Layer(GDL) enhances the performance of fuel cells by preventing water accumulation in the MEA;Energy;In the UCT invention, a microporous layer is inserted between the GDL and the catalyst which prevents the accumulation of water, has ridges that promote the flow of water and enhances the rigidity of the GDL, resulting in more uniform pressure distribution. The MPL is constructed to fill the pores of the GDL and it enhances the diffusion of gasses to the catalyst layer and the design can easily be modified and tailored for different operating conditions and applications. Specific details of tests and their outcomes are available in the patent specifications ‑that can be reached via the links below. Use of the metal GDL also led to the development of a suitable gasket, which has also been patented;A microporous layer (MPL) is inserted between the catalyst layer and the metal GDL. This, along with the fact that the GDL is more rigid provides the following benefits: prevention of the accumulation of water at the interface of the catalyst layer and the GDL enhanced diffusion of the gasses to the catalyst layer lining of the pores of the GDL with the MPL material further reduce water accumulation and the formation of large water droplets. more uniform pressure distribution from the bipolar plate onto the catalyst layer and reduced contact resistances the metal GDL is thinner than conventional GDLs, which may reduce the height of the fuel cell stack A specific configuration of holes in the GDL is provided to maximise the exposure to the channel area of the bipolar plate and the repeating pattern leads to better gas diffusion and more uniform gas supply to the catalyst layer. A pin can be used as an alignment aid and it is located in the active area of the MEA to ensure that there is no impact on the gasket and sealing system.;This metal gas diffusion layer (GDL) can be used in hydrogen fuel cells to enhance the performance of the membrane electrode assembly (MEA).;7
+UP;"A SYSTEM FOR MONITORING
+VENTILATED PATIENTS
+REMOTELY";"A centralised monitoring system assisting medical personnel to monitor multiple
+ventilated patients simultaneously";Healthcare;"We have developed a universal, non-invasive remote
+condition monitoring system for ventilators.
+It will allow an already stretched health system, with limited
+human resources and a potential heterogeneous/ multibrand fleet of ventilators, the ability to monitor their working
+(and the patients’ respiratory function) remotely. This will
+allow fewer medical personnel to monitor more patients and
+still provide proper care levels.
+The non-invasive nature of our system makes it applicable
+to all makes and models of ventilators (i.e. brand agnostic
+plug and play), requiring no modification to existing
+equipment.";"Cost effective, minimal hardware.
+• Non-invasive.
+• Enable medical personnel to manage multiple
+patients simultaneously.
+• Automatic parameter detection.
+• Intelligent alarming.
+• Monitoring can be done off-site.
+• Cloud data storage and availability. ";The ability to remote monitor patients unlocks significant opportunities and value in ICUs during pandemics, and for the home care market;6
+UP;"ALGORITHM TO DIGITALLY MONITOR
+OVERLOADING OF TRUCKS WHILE
+MINIMISING CONGESTION AT
+WEIGH BRIDGES";Cost savings for toll road operator, and reduced waiting time for heavy vehicles.;Logistics;"This novel system allows for digital monitoring of payloads
+on heavy vehicles and avoids repetitive, physical weighing
+of compliant vehicles at static weigh bridges to check
+overloading status.
+This is achieved by digitally linking all weigh bridges and
+existing or new cameras on a specific corridor. Once a truck
+is weighed and photographed, the system digitally
+recognizes any visual changes and undue delays, while the
+vehicle is in transit.
+Only exceptions (with visual changes, undue delay,
+stoppages and detours) are referred to the static weigh
+bridge for re-testing, saving time and money";"Cost effective, digital, centrally monitored law
+enforcement.
+• Easy to integrate into existing systems.
+• Advances prolonged pavement surfaces.";"Ideal for management of toll roads and logistics
+corridors, including self-policing industries such as
+mining and forestry, especially in developing
+countries.
+Assist with management of tarred road
+maintenance.";8
+UP;GREEN COAL – ENVIRONMENTALLY FRIENDLY COAL BRIQUETTES WITH LOW SULPHER EMISSIONS;"Transforming coal fine waste into valuable energy with lower emissions and
+higher efficiency.";Energy, climate;"Green Coal is environmentally friendly coal briquettes
+produced from discard fine coal, bio-char material, and
+proprietary chemical binders. The briquette reduces sulphur
+emissions during combustion by approximately 50%, while
+also increasing the burning effectiveness.
+The bio-char addition to the formulation is considered a
+renewable energy source and therefore carbon credits can be
+claimed for the reduction in the CO2 production. The use of
+Green Coal provides an efficient system for greener coal
+gasification, which is ideal for use in electricity generation and
+other industrial steam raising applications";"Waste to energy
+• Lower emissions
+• Higher efficiency
+• Mechanically robust
+• Water resistant";"South Africa produces 255 million tonnes of coal annually, of
+which 60 million tonnes are not usable due to its perceived
+poor quality. These 60 million tonnes of discarded coal also
+contain at least 15 million tonnes of fine coal. This coal is not
+used and is therefore stored on mine sites. The coal still has
+a lot of energy (higher heating value of 16 MJ/kg) associated
+with it but cannot be used in the current equipment. Therefore,
+by using the fine coal during the production of Green Coal, the
+unusable discarded coal can be processed into a usable
+product. This allows mines to increase their coal reserves
+through the utilization of discarded coal.
+The end product will primarily be offered to industrial coal
+users using boilers. Another market potential exists in
+electricity generation, providing an alternative to conventional
+coal in the power stations. ";8
+UP;ACTIVE MATERIAL FOR SIMULTANEOUS CONVERSION AND STORAGE OF SOLAR ENERGY;For solar energy systems capable of sustained and enhanced activity after termination of light exposure.;Energy, climate;"The North-West University (NWU) has pioneered the novel
+use of Europium-Tellurium-Oxide (ETO) in the production
+clean energy. ETO is a light-chargeable catalyst material
+that exhibits sustained and enhanced activity after light
+excitation has ended. Its unique characteristics presents
+an opportunity for utilisation as a new and efficient type of
+active material in photovoltaic (PV) cells for converting and
+storage of solar energy. ETO has further applications as
+catalyst in the chemical reaction for producing hydrogen
+and in fuel cells for generating electricity.";"- Environmentally friendly material for clean energy
+solutions.
+- Unlike other materials of comparable use, ETO retains
+activity after light excitation.
+- Enhanced activity for more efficient solar energy
+conversion and storage.
+- Potential applications in the electronics industry. ";"World use of photovoltaics for energy supply growing
+rapidly. The global PV market size is expected to
+reach USD 333.72 billion by 2026 at a compound
+annual growth rate (CAGR) of 25.1%. The PV
+installations in the world grew by 36.8% CAGR
+between 2010 and 2018. Si-wafer based PV
+technology accounted for about 95% of the total
+production in 2017. There is an opportunity for
+introducing Europium-Tellurium-Oxide based solar
+cells, driven by better value proposition. The global
+hydrogen fuel cell market is forecast to reach USD";5
+UKZN;"MATHS BOARDGAME FOR IMPROVING MATHS SKILLS
+AND ACHIEVEMENT";The game that radically improves mathematical abilities;Education, ECD;"Whartels™ is a maths board game designed for pre-primary
+and primary school learners and is aimed at improving
+children's maths achievement by focusing on cognitive
+aspects (maths concepts, metacognition and information
+processing) and neuro-psychological facets (executive
+functioning, self-regulation, maths anxiety, maths resilience,
+motivation etc).
+By using the newest technology maths Whartels™ aims to
+facilitate self-directed learning by changing the learners’
+mathematical mindset or thinking. It includes principles used
+in play therapy (art, biblio-therapy, board games and puppets)
+to optimize learning and understanding, including both linear
+concepts and thematic methods to improve maths skills.
+Children learn by playing, and these ""fun"" experiences, and
+memories change a brain's physical structure.";" Improve learners’ maths skills and achievement.
+ Facilitate self-directed learning.
+ Make learning fun.
+ Restores learners’ confidence in maths.";"Maths achievement at school is one of the best predictors of
+success at tertiary level. Poor maths achievement at primary
+school level is a global problem. Maths is a powerful
+gatekeeper, and the door to coursework (qualifications) in
+science, medicine, technology, and engineering.
+Research has indicated that by American middle school, twothirds of learners will fall behind grade level in their maths
+classes. In South Africa, 77% of learners take maths literacy,
+which does not give entry to any course in engineering,
+technology, or science at post-matric level.
+Whartels™ is here to restore learner confidence and assist
+learners to excel in mathematics.";8
+UKZN;"A DIGITAL SCREENING TOOL
+FOR MEASURING ACUTE
+MALNUTRITION IN CHILDREN";Accurate digital screening and capturing of paediatric malnutrition measurements;ECD, Healthcare;"This system provides accurate, digital, mid-upper arm
+measurements for screening of severe and acute malnutrition
+in children, as prescribed by the World Health Organisation
+(WHO). The system electronically captures the appropriate
+measurements and then proceeds to store and analyse the
+data using a smartphone application. Automatic alerts are sent
+to healthcare professionals (nurses or dieticians) if outliers in
+the data are observed.
+This is the first device to take electronic measurements,
+analyse and report the data and keep digital records that are
+geographically tagged and generate trend-type data over time.";"• Accessible through mobile platforms
+• Electronically captures screening
+measurements
+• Accurate screening records
+• Automatic alerts to healthcare professionals";"With private and public health systems globally under financial
+pressure, this low-cost solution will avoid expensive
+infrastructure procurement. It can be rolled out fast and at low
+cost in conjunction with a smart phone. The data generated
+through the associated mobile app can enable governments to
+trace population wellbeing.
+It is best deployed in combination with the Digital Infantometer
+(see separate sheet).";8
+UKZN;"ACCURATE AND EASY-TO-USE
+BABY SCALE TO MONITOR
+BABY DEVELOPMENT ";Low-cost baby measuring scale for digital capturing and analysis of infant development;ECD, Healthcare, Nutrition;The Digital Baby Measuring Scale (Infantometer) is a weight and height measuring medical device that automatically captures and records the readings of the infant’s length and weight using sensors. The measurements are captured digitally and sent to an accompanying software application on a mobile device used by the health professional. Automatic alerts are sent to healthcare professionals (nurses and dieticians) to assess and recommend a development plan for the infant. Captured data is analysed, geographically tagged, and tracks development trends of infants individually as well as per geographic groupings.;"• Accessible through mobile platforms
+• Low cost
+• Accurate screening records";"With private and public health systems globally under
+pressure with health budgets, this low-cost solution will solve
+expensive infrastructure procurement. It can be rolled out at
+low-cost, and the technology can be distributed fast as only a
+smart phone is required. The data generated through the app
+is also valuable for governments to trace population wellbeing.
+This may best be deployed in conjunction with the paediatric
+malnutrition measurement tool (see separate sheet).";8
+UKZN;A method for producing a building/construction material using waste plastic;;Construction, circular economy;The invention uses plastic waste and Waste Foundry Sand (WFS) to produce building and construction material. The plastic is melted and WFS is used to produce a paste for moulding of building material.;"• The use of two waste materials each with severe environmental impact, therefore reducing environmental pollution from plastic waste
+• Provides a use for the Waste Foundry Sand (WFS) otherwise classified as general waste
+• Alleviates the costs of waste disposal in landfills relating to shortage of space and environmental restrictions/issues";The product is suitable for use in the building and construction industry. Products such as building bricks and roof tiles can be produced from this material.;5
+UKZN;Educational Blocks;A set of language-based building blocks that focus on supporting the fundamentals of language learning in the Foundation Phase. This open-ended resource consists of building blocks of various sizes that depict images, single letters and letter combinations, which can be adapted to different levels and learning contexts in a variety of ways. The product incorporates vocabulary building and phonemic development.;Education, ECD;A set of language-based building blocks that focus on supporting the fundamentals of language learning in the Foundation Phase. This open-ended resource consists of building blocks of various sizes that depict images, single letters and letter combinations, which can be adapted to different levels and learning contexts in a variety of ways. The product incorporates vocabulary building and phonemic development. ;"• Support learners in their learning and holistic development, i.e. physical (fine motor skills and coordination), social (through competitive and cooperative play), emotional and cognitive development
+• Designed to be affordable, accessible, durable and contextually relevant
+Adaptability of product enhances the functionality and usability of the product and addresses fundamental needs of primary and secondary users";The product is suitable for use by facilitators or teachers, in support of learning activities that are used to address language-based learning problems faced by Foundation Phase learners. The product encourages play-based learning where learners engage in creative, imaginative, manipulative and social play.;5
+UKZN;Reusable Sanitary Pad;;femine hygiene;A reusable sanitary pad that is uniquely designed to collect, retain and dispose of menstrual fluid. The reusable pad is used externally, it is hygienic and easy to clean.;"• For long term reuse (up to 10 years)
+• Once off payment that is cheaper when compared to monthly purchases
+• Easy to clean and no bacterial risks
+• Environmentally friendly
+• Culturally appropriate";A reusable menstruation device that is best suited for young females starting puberty in order to develop an alternative menstruation management option. This product provides a more sustainable option to poverty stricken areas where monthly costs can significantly be reduced in providing an option for longer (for up to 10 years) use.;5
+UKZN;Opart – Unique hinging mechanism for eyewear;;Eyecare, healthcare;The invention consists of a unique hinge mechanism as an alternative to existing spectacle hinge configurations. This mechanism facilitates customisation of spectacle frames while also reducing costs associated with customisation.;"• Simple to manufacture
+• Easy to fit and repair
+• Extended life of hinging mechanism
+• Possibility of affordable customisation of eyewear";Manufacturing simplified eyewear that has the potential to be customised, is easy to assemble and repair and more affordable to the end user.;5
+;Rapid Screening of Barley;;Agriculture;A method of rapidly determining germination energy in harvested Barley. The technology presents a disposable pregnancy-test-type format that is fast and ideal for on site testing;"• A simple and inexpensive device for rapid screening
+• Can be done by unskilled persons on site";For use by breweries, microbreweries and industries where germination energy is to be determined. Germination of seeds are important to ensure a successful malting process.;4
+NWU;Low-Cost Household Wind Turbine;A low-cost, portable, self-aligning rooftop wind turbine designed to capture moderate velocity wind and generate electricity efficiently for household use.;Energy, climate;The portable, self-aligning, low-cost wind turbine comprises an innovative small-radius blade system to ensure maximum torque per small rotating radius. It is constructed using extremely inexpensive components. It is portable and can be installed with ease as an add-on to any premises. The energy generated from the system is channelled directly into the household system via an innovative electronic controller box fitted to the house distribution box.;;For households to reduce reliance on the national grid;6
+NWU;Sit/Stand Desk;Innovative multi-functional desk and chair designed to improve dynamic school classroom ergonomics;Education, equipment;"The KUZE (Figure 1) is a multi-functional desk and chair that allows the user to either stand or sit while using it. It is designed to meet current evidence-based recommendations to optimise health and school performance. The KUZE matches the anthropometrics of a wide range of learners from junior to secondary school because it is adjustable to the size of the user as it has 6 height settings. Although initially designed to improve dynamic school classroom ergonomics, the KUZE will also be suitable for the work office or home office.
+
+The KUZE uses an innovative, heigh-adjusting and locking mechanism, it allows the user to change position instantly, thereby not interfering with their work or disrupting other users. It features a slope that facilitates reading and writing, it has also a left and right slide-out panel that enlarges the work surface when using more than one resource. The features make standing and working entirely feasible while enjoying the benefits of reduced sitting time.";"The KUZE
+
+reduces the risk of chronic diseases of lifestyle and some cancers
+reduces the risk of developing costly musculoskeletal conditions such as back pain
+improves concentration time which optimises academic performance
+is space‑saving and durable";"The market for the technology includes:
+
+Private schools
+Individual public schools
+Schools for children with special needs
+Education government
+Ergonomic/furniture companies and their clients
+Parents and their children
+Colleges and higher education institutions
+Libraries and community-based IT centers";5
+NWU;Separation, Purification and Recovery of Resveratrol from Wine Waste Using Aqueous Two-Phase Separation;The technology relates to a method for separating polyphenolic compounds from biomass, the products resulting from the method and their use;Nutrition, dietary supplements;"The technology described provides an efficient method for separating a polyphenolic compound (such as resveratrol) from biomass, the method comprising feeding the biomass into an aqueous two-phase system with a polymer phase and a salt phase and separating the polymer phase which includes the polyphenolic compound from the salt phase. The polymer used in the process may be a polyether and the salt may be selected from potassium sodium tartrate, sodium citrate, potassium phosphate, ammonium sulphate, and any combinations thereof. 
+
+As illustrated by Figure 1 and Figure 1 biomass is milled prior to feed feeding it to the aqueous two-phase system so that it may be homogenised. The aqueous two-phase system has relative proportions of the polymer-salt solution selected to enhance resveratrol separation from the biomass. The method then includes a step of recovering the polyphenolic compound at least partially from the polymer phase. This step may be performed by protein precipitation to yield a polyphenol-protein precipitate or by the addition of a second polymer phase into a second aqueous two-phase system. The second polymer phase may comprise a carbohydrate. The resveratrol-protein precipitate or resveratrol-polymer solution are then dried to yield a polyphenol containing powder. 
+
+The method allows for recycling of the polymer phase and salt phase in the aqueous two-phase system separating the polyphenolic compound from the biomass. The resveratrol-protein precipitate obtained by protein precipitation and the resveratrol-polymer powder obtained from the second aqueous two-phase system may be used in medicaments and dietary and nutraceutical supplements amongst other applications.";"An efficient method to produce resveratrol or other polyphenolic compounds from biomass.
+
+Resveratrol is a naturally derived compound providing the following benefits:
+
+Anti‑oxidant
+Anti-inflammation
+Anti‑carcinogenic
+Estrogenic
+Joint pain relief
+Supports immune system
+Supports metabolic function
+Enhances cognitive function
+Promotes cardiovascular health
+Lowers blood pressure
+Improves cholesterol levels
+Skin health";"Nutraceutical and dietary supplements
+Medicaments
+Cosmetics";8
+NWU;Non-Reactive Solvent Assisted Fractional Crystallisation for the Separation of Cannabinoids from Wax;A method of extracting cannabinoids from a waste wax formed during conventional extraction of cannabinoids from Cannabis plants;Cannabinoid processing, Medical cannabinoid;"A method has been developed by which cannabinoids are extracted from a waste wax that is formed during conventional extraction of cannabinoids from Cannabis plants. During medicinal cannabinoid extraction process, cannabinoids are extracted from the plant material into an alcohol phase, which can be regarded as a cold extraction process (i.e., no application of heat). However, cannabinoids are not extracted in pure form since several flavour compounds and waxes are co-extracted. To remove the waxes, the extraction solution is frozen at -40 °C to precipitate the wax in a step called winterisation. This step allows solidification of the waxes, which are then simply filtered out of the solution and removed from the processing stream. Currently, the cannabinoid industry is seeking alternative applications for these wax waste streams. However, because the waxes still entrap significant amounts of cannabinoids, most extraction companies stockpile the waxes with a view of adding value once an effective extraction has been developed to extract the residual cannabinoids. Stellenbosch's solution manages to achieve this extraction and the method can unlock significant value within the cannabinoid industry for commercial extraction/purification facilities.
+
+The extraction is obtained from a non‑reactive solvent assisted fractional crystallisation separating the cannabinoids from wax. The selection of the unique solvent along with optimised processing steps and conditions obtain a greater yield of high quality, medical‑grade cannabinoids.";"Greater yield of cannabinoids recovered from plants
+Increased availability of medical grade cannabinoids
+Reduced waste waxes with locked cannabinoids
+Downstream process that may retrofit into existing cannabinoid processing industry
+Minimal capex input";"Medical cannabinoid
+Secondary market for cannabis waxes and cannabinoid products
+Cannabinoid processing industry";8
+NWU;Method for Controlling Pest Infestation;Using small interferance RNA (SiRNA) as means of broad spectrum aphid control in food crops;Agriculture;The novel use of cuticle protein RR1-8 gene sequence to inform the design of siRNA to provide broad spectrum aphid control when applied on food crops. siRNAs are taken up by the crop plant and results in aphid mortality through species-specific RNA-interference when consumed by the aphid pest.;"Exogenous application of siRNA onto crop plants has been shown to effectively control insect numbers. The novel use of cuticle protein RR1-siRNA allows for: (i) the selective control of specific insect pests, or broader application to a range of insects (dependant on design) on various crop species; (ii) no off-target effects on crop plants, the environment or humans and (iii) biodegradability. ";"Crop producers
+
+Seed companies
+
+Farmers";5
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
