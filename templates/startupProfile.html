@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create Startup Profile</title>
+    <link rel="stylesheet" href="../static/style.css">
+</head>
+<body>
+    <div>
+        <h1>Create Startup Profile</h1>
+    </div>
+
+    <main role="main">
+        <form id="startupProfileForm">
+            <label for="companyName">Company Name:</label>
+            <input type="text" id="companyName" name="companyName" required>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" required>
+
+            <label>Business Type:</label>
+            <div>
+                <input type="checkbox" id="technology" name="businessType" value="Technology">
+                <label for="technology">Technology</label>
+                <input type="checkbox" id="healthcare" name="businessType" value="Healthcare">
+                <label for="healthcare">Healthcare</label>
+                <input type="checkbox" id="finance" name="businessType" value="Finance">
+                <label for="finance">Finance</label>
+                <input type="checkbox" id="education" name="businessType" value="Education">
+                <label for="education">Education</label>
+                <input type="checkbox" id="energy" name="businessType" value="Energy">
+                <label for="energy">Energy</label>
+            </div>
+
+            <label for="fundingStage">Funding Stage:</label>
+            <select id="fundingStage" name="fundingStage">
+                <option value="Seed">Seed</option>
+                <option value="Series A">Series A</option>
+                <option value="Series B">Series B</option>
+                <option value="Series C">Series C</option>
+            </select>
+
+            <label for="fundingNeeded">Funding Needed:</label>
+            <input type="number" id="fundingNeeded" name="fundingNeeded" required>
+
+            <label for="pitchSummary">Pitch Summary:</label>
+            <textarea id="pitchSummary" name="pitchSummary" required></textarea>
+
+            <label for="teamSize">Team Size:</label>
+            <input type="number" id="teamSize" name="teamSize" required>
+
+            <button type="submit">Create Profile</button>
+        </form>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Investor-Startup Platform</p>
+    </footer>
+
+    <script src="../static/startupProfile.js"></script>
+</body>
+</html>

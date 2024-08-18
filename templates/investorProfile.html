@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create Investor Profile</title>
+    <link rel="stylesheet" href="../static/style.css">
+</head>
+<body>
+    <header>
+        <div>
+            <h1>Create Investor Profile</h1>
+        </div>
+    </header>
+
+    <main role="main">
+        <form id="investorProfileForm">
+            <label for="fullName">Full Name:</label>
+            <input type="text" id="fullName" name="fullName" required>
+    
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+    
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" required>
+    
+            <label>Investment Interests:</label>
+            <div>
+                <input type="checkbox" id="technology" name="interests" value="Technology">
+                <label for="technology">Technology</label>
+                <input type="checkbox" id="healthcare" name="interests" value="Healthcare">
+                <label for="healthcare">Healthcare</label>
+                <input type="checkbox" id="finance" name="interests" value="Finance">
+                <label for="finance">Finance</label>
+                <input type="checkbox" id="education" name="interests" value="Education">
+                <label for="education">Education</label>
+                <input type="checkbox" id="energy" name="interests" value="Energy">
+                <label for="energy">Energy</label>
+            </div>
+    
+            <label for="budget">Investment Budget Range:</label>
+            <select id="budget" name="budget">
+                <option value="0-50000">$0 - $50,000</option>
+                <option value="50000-250000">$50,000 - $250,000</option>
+                <option value="250000-1000000">$250,000 - $1 million</option>
+                <option value="1000000+">$1 million+</option>
+            </select>
+    
+            <label for="bio">Bio:</label>
+            <textarea id="bio" name="bio"></textarea>
+    
+            <button type="submit">Create Profile</button>
+        </form>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Investor-Startup Platform</p>
+    </footer>
+
+    <script src="../static/investorProfile.js"></script>
+</body>
+</html>
